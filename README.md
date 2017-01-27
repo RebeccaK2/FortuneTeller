@@ -1,0 +1,2 @@
+# FortuneTeller
+Homework week1
